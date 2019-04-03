@@ -7,4 +7,4 @@ matrix:
          - gcc
        script:
          - gcc -o test hello.c 
-         - ./test 
+         - ./test
